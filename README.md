@@ -1,3 +1,9 @@
+## SCREENSHOTS OF ASSIGNMENT
+
+<img width="1894" height="939" alt="Screenshot 2025-11-28 185249" src="https://github.com/user-attachments/assets/f2fb9b6e-27b7-4c29-937e-670bd809d062" />
+![Uploading Screenshot 2025-11-28 185302.png…]()
+
+
 
 
 ## 🚀 Running the Project
